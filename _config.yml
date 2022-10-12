@@ -1,16 +1,16 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "Inverse kinematics solution using neural and non neural based appraches for SCORBOT-ER-4U"
+author: "Ryshant Shane"
+description: "Testing the inverse kinematics technique on SCORBOT-ER-4U with the help of both neural and non-neural based techniques." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
-#facebook_username: username
+email: "s11159337@student.usp.ac.fj"
+%twitter_username: "twitteruser"
+github_username: "ryshantshane"
+linkedin_username: "RyshantShane"
+#facebook_username: ryshantshane
 #flickr_username: username
-#instagram_username: username
+instagram_username: ryshantshane
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
