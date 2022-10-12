@@ -17,6 +17,8 @@ The robotic arm parts:
 - Spherical Joints
  
 
+![53146FC7-2CB2-459E-8098-B1F6E0A9D313](https://user-images.githubusercontent.com/115636470/195354069-fa59106a-55f9-4914-b315-ef10fced4c93.png)
+
 
  ```tsql
  SELECT *
