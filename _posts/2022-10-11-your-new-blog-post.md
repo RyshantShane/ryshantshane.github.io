@@ -19,6 +19,28 @@ The robotic arm parts:
 
 ![53146FC7-2CB2-459E-8098-B1F6E0A9D313](https://user-images.githubusercontent.com/115636470/195354069-fa59106a-55f9-4914-b315-ef10fced4c93.png)
 
+## Data Generation
+
+1) Obtained the combination of angles by combining the angles of Base, Shoulder, Elbow, Roll, Pitch. 
+
+2) Obtain the X and Y coordinates 
+
+3) Generate Data 1, Data 2, Data 3, Data 4, Data 5 
+
+4) Each Data having the matrix dimension ( n x 3) which defines X: Y: Theta
+
+5) Extracting the value of theta and arranging it in (n x 5) matrix 
+
+6) Utilizing the forward kinematics command and inserting it a “for loop” to    obtain the values for X, Y, Z, P, R. 
+
+## RESULTS 
+
+![image](https://user-images.githubusercontent.com/115636470/198419326-35269908-d668-4797-b1ed-8bb8b4e8b72d.png)
+
+![image](https://user-images.githubusercontent.com/115636470/198419295-eefe1210-48d6-468b-a79e-02677d2ba833.png)
+
+![image](https://user-images.githubusercontent.com/115636470/198419348-14a9e700-b5c3-4080-bbc0-3464373eed4e.png)
+
 
  ```tsql
  SELECT *
