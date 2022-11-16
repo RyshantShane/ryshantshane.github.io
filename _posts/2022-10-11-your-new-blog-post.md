@@ -33,6 +33,9 @@ The robotic arm parts:
 
 6) Utilizing the forward kinematics command and inserting it a “for loop” to    obtain the values for X, Y, Z, P, R. 
 
+
+![image](https://user-images.githubusercontent.com/115636470/202313649-b825bb07-a861-4f57-889e-567b6e512f26.png)
+
 ## RESULTS 
 
 ![image](https://user-images.githubusercontent.com/115636470/198419326-35269908-d668-4797-b1ed-8bb8b4e8b72d.png)
@@ -40,6 +43,8 @@ The robotic arm parts:
 ![image](https://user-images.githubusercontent.com/115636470/198419295-eefe1210-48d6-468b-a79e-02677d2ba833.png)
 
 ![image](https://user-images.githubusercontent.com/115636470/198419348-14a9e700-b5c3-4080-bbc0-3464373eed4e.png)
+
+## Shallow Neural Network Approach
 
 
  ```tsql
