@@ -46,6 +46,9 @@ The robotic arm parts:
 
 ![image](https://user-images.githubusercontent.com/115636470/202313828-327f5f34-6fc2-422d-8eb9-cd880a9fd3dd.png)
 
+![image](https://user-images.githubusercontent.com/115636470/202314316-320c4952-8fe9-4cab-b044-648fad67961b.png)
+
+
  ```tsql
  SELECT *
  FROM sys.tables
