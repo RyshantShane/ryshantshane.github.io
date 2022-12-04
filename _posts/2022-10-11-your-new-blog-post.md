@@ -1,5 +1,4 @@
-## Inverse kinematics solution using neural and non-neural based appraches for SCORBOT-ER-4U
-
+## Inverse kinematics solution using neural and non-neural based appraches for 
 ![C9B1DD19-A87C-446F-B812-4F6A2489C620](https://user-images.githubusercontent.com/115636470/195352061-e06a1ddb-171f-4e06-b982-0f9726e376bc.jpeg)
 
 
